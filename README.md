@@ -1,12 +1,13 @@
 #cpnt262-achievements3
-Achievements Round 3
+
+Achievements Round 3  
 author: Myka Peligrino
 
 ## Info
 These achivements were done through the final group Assignment. The Assignment repo is https://github.com/AshlavaDev/cpnt262-group-project
 
 ## Achievements Done
-- Components and Class Bindings
+- Components and Class Bindings  
 Components made and links:
 1. AppCard.vue (https://github.com/AshlavaDev/cpnt262-group-project/blob/main/components/AppCard.vue)
 2. TheNav.vue (https://github.com/AshlavaDev/cpnt262-group-project/blob/main/components/TheNav.vue)
